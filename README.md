@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Mazhar Abbsa and I'm a Computer Science Student, from Gujranwala,Pakistan...</h2>
+<h2 align="left">Hi 👋! My name is Mazhar Abbas and I'm a Computer Science Student, from Gujranwala,Pakistan...</h2>
 
 ###
 
